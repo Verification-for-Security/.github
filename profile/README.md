@@ -1,4 +1,4 @@
-This organisation contains all repositories associated with the VU course
+This organisation contains all repositories associated with the VU course;
 Verification for Security. You may find the assignment repositories pinned
 to our front page.
 
